@@ -40,7 +40,7 @@ public class MainApp {
          System.out.println();
       }
 
-      System.out.println(userService.findUserByCar("Tesla", 5749));
+      System.out.println(userService.findUserByCar("BMW", 4729));
 
       context.close();
    }
